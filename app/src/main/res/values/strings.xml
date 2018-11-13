@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Week4Daily1</string>
+    <string-array name="genderSelection">
+        <item>-- All --</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <!-- AU, BR, CA, CH, DE, DK, ES, FI, FR, GB, IE, IR, NO, NL, NZ, TR, US -->
+    <string-array name="nationalitySelection">
+        <item>-- All --</item>
+        <item>Australian</item>
+        <item>Brazilian</item>
+        <item>Canadian</item>
+        <item>Chinese</item>
+        <item>Germany</item>
+        <item>Denmark</item>
+        <item>Spain</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Great Brittain</item>
+        <item>Ireland</item>
+        <item>Iran</item>
+        <item>Norway</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Turkey</item>
+        <item>United States</item>
+    </string-array>
+</resources>
